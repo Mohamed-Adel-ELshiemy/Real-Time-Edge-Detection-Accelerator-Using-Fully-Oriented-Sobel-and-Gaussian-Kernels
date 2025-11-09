@@ -1,0 +1,2 @@
+# Real-Time-Edge-Detection-Accelerator-Using-Fully-Oriented-Sobel-and-Gaussian-Kernels
+The proposed Real-Time Edge Detection Accelerator using Fully Oriented Sobel and Gaussian Kernels provides a highly efficient solution for fast and accurate image processing. Its design ensures real-time performance, delivering high-speed, precise edge detection essential for embedded vision and smart edge applications.
